@@ -167,6 +167,7 @@ int main(){
     printf("Noile automobile:\n");
     show_avto(avto, n);
     printf("\n");
+    free(avto);
     getch();
     return 0;
 }
