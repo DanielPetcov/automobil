@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1707740747 source:d:\uni\pc\laboratorul 1\automobil\automobil\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<dos.h>
+
